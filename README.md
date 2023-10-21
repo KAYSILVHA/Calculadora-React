@@ -63,7 +63,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/KAYSILVHA)
+Desenvolvido por [ME](https://github.com/KAYSILVHA)
      
 
    
