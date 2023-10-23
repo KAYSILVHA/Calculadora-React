@@ -11,12 +11,12 @@ const Container = styled.div`
   justify-content: center;
   font-size: 20px;
   color: #FFD700;
-  padding: 50px 20px;
+  padding: 30px 20px;
   border-radius: 2rem;
   gap: 20px;
-  @media screen and (max-width: 350px){
+  @media screen and (max-width: 500px){
     width: 100%;
-    height: auto;
+    height: 100%;
     border-radius: 0;
   }
 `;

@@ -4,7 +4,7 @@ import Calculadora from './Calculadora';
 
 const MainStyled = styled.main`
   width: 100vw;
-  height: calc(100vh - 15vh);
+  height: calc(100vh - 14vh);
   background-color: #292929;
   display: flex;
   align-items: center;

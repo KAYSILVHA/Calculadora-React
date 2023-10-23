@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const HeaderStyled = styled.header`
   width: 100vw;
-  height: 15vh;
+  height: 14vh;
   background-color: #000;
   display: flex;
   align-items: center;
